@@ -1,0 +1,1 @@
+Graafinen miinaharava peli, joka tehty ohjelmoinnin alkeet- kurssin lopputyönä. Pelivalikko toimii komentokehoitteessa mutta itse peli toimii erillisessä ikkunassa, jota klikkaillaan hiirellä. Peli käynnistetään ajamalla miinaharava.py tiedosto. miinaharava.py omaa koodia ja haravasto.py opettajan antama. Ohjelmoitu Python 3.7 versiolla.
